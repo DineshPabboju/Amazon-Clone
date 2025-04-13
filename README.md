@@ -18,27 +18,7 @@ This is a **clone of the Amazon homepage** built purely using **HTML and CSS**. 
 ## 🛠️ Built With
 
 - HTML5
-- CSS3 (Flexbox and Grid for layout)
-
-## 📁 Folder Structure
-Amazon-Clone/
-│
-├── amazonclone.html        ← Main HTML file (your Amazon homepage)
-├── style.css               ← CSS file with all styles
-├── images/                 ← Folder for image assets
-│   ├── amazon_logo.png
-│   ├── banner.jpg
-│   ├── box1_image.jpg
-│   ├── box2_image.jpg
-│   ├── box3_image.jpg
-│   ├── box4_image.jpg
-│   ├── box5_image.jpg
-│   ├── box6_image.jpg
-│   ├── box7_image.jpg
-│   ├── box8_image.jpg
-│   └── footer.png
-├── README.md               ← (You can add this readme file here)
-
+- CSS3 
 
 
 ## 🌐 How to Run Locally
